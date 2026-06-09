@@ -1,0 +1,6 @@
+{
+  "name": "Gestion Visites Techniques",
+  "description": "Plateforme web de gestion moderne pour les centres de visites techniques automobiles, facilitant la prise de rendez-vous, le suivi d'échéances et la fidélisation des automobilistes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
